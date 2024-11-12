@@ -13,8 +13,5 @@ public class Sample {
 		System.out.println("Bye");
 	}
 	
-	@Test
-	public void sampleTest3() {
-		System.out.println("Bye maacha");
-	}
+	
 }
