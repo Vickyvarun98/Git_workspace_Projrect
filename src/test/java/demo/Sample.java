@@ -7,4 +7,9 @@ public class Sample {
 	public void sampleTestCase() {
 		System.out.println("Hello");
 	}
+	
+	@Test
+	public void sampleTest2() {
+		System.out.println("Bye");
+	}
 }
